@@ -1,0 +1,4 @@
+entities:
+token
+user
+role
